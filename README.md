@@ -26,11 +26,12 @@ n = length of sequence
  
 # Results
 Each point represents the median running time of each category pattern (50 patterns) 
-![image](https://github.com/user-attachments/assets/d2c29803-0b9b-4428-a9e6-6184e736a788)
-
+![image](https://github.com/user-attachments/assets/9a3ae019-6916-4bde-8e73-38d66db61afa)
 
 Each point represents the avg running time of each category pattern (50 patterns) 
-![image](https://github.com/user-attachments/assets/25fb8c50-3b1b-4505-b23c-8284e18b3a0e)
+![image](https://github.com/user-attachments/assets/76fdf930-58b3-42a0-9c4a-1a0d04ce2f56)
+
+
 
 - KMP guarantees linear time complexity, making it suitable for situations where consistent performance is crucial.
 - Boyer-Moore is often the most efficient in practice, but its worst-case time complexity is the same as the naive approach.
