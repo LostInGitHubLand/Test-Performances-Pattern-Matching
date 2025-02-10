@@ -25,11 +25,15 @@ n = length of sequence
 - For each category of pattern length we create 50 pattern (each pattern is randomly selected from chr11)
  
 # Results
-Each point represents the median running time of each category pattern (50 patterns) 
-![image](https://github.com/user-attachments/assets/9a3ae019-6916-4bde-8e73-38d66db61afa)
+Each point represents the **median** running time of each category pattern (50 patterns) 
+![image](https://github.com/user-attachments/assets/1f365f1a-5c1b-4aa9-a307-618955870362)
 
-Each point represents the avg running time of each category pattern (50 patterns) 
-![image](https://github.com/user-attachments/assets/76fdf930-58b3-42a0-9c4a-1a0d04ce2f56)
+
+
+
+Each point represents the **mean** running time of each category pattern (50 patterns) 
+![image](https://github.com/user-attachments/assets/bd41898e-7534-4c64-8352-e259582c4aa1)
+
 
 
 
