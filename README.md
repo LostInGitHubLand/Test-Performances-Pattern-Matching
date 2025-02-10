@@ -20,7 +20,7 @@ We implement three different algorithms and, given a chromosome sequence, test t
 m = length of pattern
 n = length of sequence
 # Sequence and pattern
-- Selected Sequence: *Human chromosome 11*
+- Selected Sequence: *Human chromosome 11* from [National Library of Medicine](https://www.ncbi.nlm.nih.gov/guide/genes-expression/) in FASTA format.
 - Sets of patterns of variable length: 10, 25, 50, 80, 100, 250, 500, 750,1000, 1250, 1500, 1750, 2000
 - For each category of pattern length we create 50 pattern (each pattern is randomly selected from chr11)
  
