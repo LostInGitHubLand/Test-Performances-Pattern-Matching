@@ -1,5 +1,5 @@
-# Test-Performances-Pattern-Matching
-Algorithms for DNA sequencing
+# Comparison of the performance of pattern-matching algorithms in genetics
+
 # Introduction
 In the context of DNA sequencing, the aim of this work is to compare the performance of different pattern matching algorithms.
 
