@@ -6,7 +6,7 @@ In the context of DNA sequencing, the aim of this work is to compare the perform
 # Algorithms,
 We implement three different algorithms and, given a chromosome sequence, test them on patterns of different lengths. 
 - Naive
-- Boyer Moore
+- Boyer Moore (a python implementation of Ben Langmead,Johns Hopkins University)
 - Knuth Morris Pratt
 
 # Sequence and pattern
@@ -16,8 +16,19 @@ We implement three different algorithms and, given a chromosome sequence, test t
 - 
 # Results
 Each point represents the median running time of each category pattern (50 patterns) 
-![image](https://github.com/user-attachments/assets/cf81901b-b576-4620-8198-54085edf1a9a)
+![image](https://github.com/user-attachments/assets/d2c29803-0b9b-4428-a9e6-6184e736a788)
+
 
 Each point represents the avg running time of each category pattern (50 patterns) 
 ![image](https://github.com/user-attachments/assets/25fb8c50-3b1b-4505-b23c-8284e18b3a0e)
+
+# Bibliography
+- **Fast pattern matching in strings**, Knuth, Morris, Pratt, 1977.
+
+- **Genomic data science specialization**, Johns Hopkins University, AA VV (Coursera)
+
+- **Algorithms on Strings, Trees, and sequences**, Dan Gusfield, Computer science and computational biology, 1997
+
+
+
 
